@@ -1,0 +1,8 @@
+br/com/profcristianoaf81/concessionaria/carro/CarroDAO.class
+br/com/profcristianoaf81/concessionaria/carro/util/DAOFactory.class
+br/com/profcristianoaf81/concessionaria/carro/Carro.class
+br/com/profcristianoaf81/concessionaria/carro/util/HibernateUtil.class
+br/com/profcristianoaf81/concessionaria/carro/CarroDAOHibernate.class
+br/com/profcristianoaf81/concessionaria/carro/CarroRN.class
+br/com/profcristianoaf81/concessionaria/carro/web/filter/ConexaoHibernateFilter.class
+br/com/profcristianoaf81/concessionaria/carro/web/CarroBean.class
